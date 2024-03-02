@@ -1,3 +1,21 @@
+https://github.com/shahules786/mayavoz/issues/50
+
+
+https://vas3k.club/post/18916/
+
+
+https://www.phoenixframework.org/blog/whisper-speech-to-text-phoenix
+
+
+https://itsourcecode.com/modulenotfounderror/modulenotfounderror-no-module-named-pytorch_lightning-fixed/
+
+
+https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb
+
+
+pip install git+https://github.com/speechbrain/speechbrain.git@develop
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/speechbrain/speechbrain/develop/docs/images/speechbrain-logo.svg" alt="SpeechBrain Logo"/>
 </p>
